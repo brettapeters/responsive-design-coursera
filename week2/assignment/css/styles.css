@@ -1,0 +1,49 @@
+thead {
+  font-weight: bold;
+}
+
+td {
+  font-size: 1.2em;
+}
+
+.table-container {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+.social > li {
+  margin-right: 30px;
+  display: inline;
+  list-style: none;
+}
+
+.footer {
+  padding-bottom: 100px;
+  clear: both;
+}
+
+.clickable-row:hover {
+  cursor: pointer;
+}
+
+.task-details,
+.profile-pic {
+  display: inline-block;
+}
+
+.task-details {
+  font-size: 1.3em;
+}
+
+.action-buttons {
+  float: right;
+}
+
+.profile-pic {
+  margin-bottom: 10px;
+  width: 100px;
+  border-radius: 50%;
+  box-shadow: 0 0 10px black;
+}
